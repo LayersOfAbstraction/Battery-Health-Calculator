@@ -14,7 +14,7 @@
 	
 	# Create labels and text boxes
 	$label1 = New-Object System.Windows.Forms.Label
-	$label1.Text = "Designed Capacity:"
+	$label1.Text = "Design Capacity:"
 	$label1.AutoSize = $true
 	$label1.Top = 20
 	$label1.Left = 10
