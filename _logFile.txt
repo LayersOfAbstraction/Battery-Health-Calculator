@@ -1,0 +1,34 @@
+Script started 2025-01-08 07:43PM
+
+Script started 2025-01-08 07:43PM
+
+Script started 2025-01-08 08:03PM
+
+Script started 2025-01-08 08:03PM
+
+Script started 2025-01-08 08:11PM
+
+Error: The term 'txtResult.Text' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 2025-01-08 08:11PM
+
+Script started 2025-01-08 08:11PM
+
+Error: The term 'txtResult.Text' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 2025-01-08 08:11PM
+
+Script started 2025-01-08 08:11PM
+
+Error: The term 'txtResult.Text' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 2025-01-08 08:11PM
+
+Script started 2025-01-08 08:13PM
+
+Error: The term 'txtResult.Text' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 2025-01-08 08:13PM
+
+Script started 2025-01-08 08:13PM
+
+Error: The term 'txtResult.Text' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 2025-01-08 08:13PM
+
+Script started 2025-01-08 08:15PM
+
+Script started 2025-01-08 08:20PM
+
+Script started 2025-01-08 08:20PM
+
